@@ -19,8 +19,6 @@ function App() {
 
         <Body src="/artem.jpg" name="Артем" position="Business Analyst" />
 
-
-        <Body src="/avatar-default.png" name="" position="" />
       </div>
     </div>
   );
