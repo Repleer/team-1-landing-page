@@ -14,7 +14,7 @@ function App() {
 
         <Body src="/Yurii.jpg" name="Юрій" position="UI/UX designer" />
 
-        <Body src="/avatar-default.png" name="" position="" />
+        <Body src="/Alek_photo.jpg" name="Анастасія" position="Product manager" />
 
         <Body src="/avatar-default.png" name="" position="" />
       </div>
