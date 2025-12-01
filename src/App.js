@@ -9,7 +9,7 @@ function App() {
       <Header />
 
       <div className="Team">
-        <Body  src = "/avatar-default.png"  name="Олександр"position="Sofware developer"/>
+        <Body  src = "/Alex.jpg"  name="Олександр"position="Sofware developer"/>
         
         <Body  src = "/avatar-default.png"  name=""position=""/>
         
